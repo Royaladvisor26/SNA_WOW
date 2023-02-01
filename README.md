@@ -20,7 +20,7 @@ Open [social network analysis WoW.ipynb](https://github.com/Royaladvisor26/SNA_W
 
 ### ModuleNotFoundError in Jupyter
 
-If you encounter such error message `ModuleNotFoundError: No module named 'package_name`, try inputting this command in a code block
+If you encounter such error message `ModuleNotFoundError: No module named 'package_name'`, try inputting this command in a code block
 
 ```python
 !pip install package_name # replace package_name with the name of the missing package
